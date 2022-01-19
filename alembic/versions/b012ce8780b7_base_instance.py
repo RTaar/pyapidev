@@ -1,8 +1,8 @@
-"""renew
+"""base-instance
 
-Revision ID: 8ade957c1bc2
-Revises: 09d7645b38ea
-Create Date: 2022-01-18 12:56:06.711120
+Revision ID: b012ce8780b7
+Revises: 
+Create Date: 2022-01-19 06:46:44.058062
 
 """
 from alembic import op
@@ -10,8 +10,8 @@ import sqlalchemy as sa
 
 
 # revision identifiers, used by Alembic.
-revision = '8ade957c1bc2'
-down_revision = '09d7645b38ea'
+revision = 'b012ce8780b7'
+down_revision = None
 branch_labels = None
 depends_on = None
 
