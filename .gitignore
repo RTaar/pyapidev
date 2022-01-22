@@ -1,3 +1,6 @@
 __pycache__
 .env-pyapidev/
 .env
+Dockerfile
+docker-compose-prod.yml
+docker-compose-dev.yml
